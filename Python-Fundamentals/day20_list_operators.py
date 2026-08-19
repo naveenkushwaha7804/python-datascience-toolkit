@@ -8,7 +8,7 @@
 
 # UNSUPPORTED (-) OPERATOR
 l1=[10,4,'python',8,4]
-l2=[9,4'java',8,0]
+l2=[9,4,'java',8,0]
 print(l1-l2)
 
 # SUPPORTED (*) OPERATOR
